@@ -27,6 +27,9 @@ Visual representations of the analysis include:
 - Distribution plots
 - Donut charts
 - Statistical visualizations
+- Bar charts
+- Pie charts
+- line charts
 
 ## Project Structure
 
