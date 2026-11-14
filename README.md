@@ -30,6 +30,7 @@ Visual representations of the analysis include:
 - Bar charts
 - Pie charts
 - line charts
+- Scatter plots
 
 ## Project Structure
 
